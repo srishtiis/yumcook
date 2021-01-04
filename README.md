@@ -1,8 +1,1 @@
-Hi there 👋 I am Srishti Singh!
-
-
-###About Me
-I'm a UX/UI Designer with a coding skillset and having experience in delivering end-to-end UX/UI design for software products.
- 
-I believe in designing useful and desirable solutions that lie at the confluence of business, technology, and users.
-
+Yumcook provides food delivery service for those, who are always busy. I have created this website in order to practic HTML5, CSS3 and JavaScript.
